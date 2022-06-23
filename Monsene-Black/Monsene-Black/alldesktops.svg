@@ -6,8 +6,8 @@
    height="29.866667"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="keepabove.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="alldesktops.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -411,16 +411,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627416"
-     inkscape:cx="58.557283"
-     inkscape:cy="14.274719"
+     inkscape:zoom="8"
+     inkscape:cx="8.5625"
+     inkscape:cy="-12"
      inkscape:document-units="px"
-     inkscape:current-layer="pressed-center"
+     inkscape:current-layer="g56297-2"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
-     inkscape:window-x="0"
+     inkscape:window-height="1009"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showborder="false"
@@ -460,11 +460,11 @@
        orientation="0,-1"
        id="guide29040" />
     <sodipodi:guide
-       position="-5.75,19.804167"
+       position="27.484375,18.866667"
        orientation="0,-1"
        id="guide29042" />
     <sodipodi:guide
-       position="-7.0625,9.9916668"
+       position="29.1875,10.866667"
        orientation="0,-1"
        id="guide29044" />
     <sodipodi:guide
@@ -483,10 +483,6 @@
        position="32.792077,54.880569"
        orientation="0,-1"
        id="guide55025" />
-    <sodipodi:guide
-       position="43.929011,17.315521"
-       orientation="0,-1"
-       id="guide1907" />
   </sodipodi:namedview>
   <metadata
      id="metadata4433">
@@ -525,64 +521,61 @@
        style="display:inline"
        inkscape:label="#active-center">
       <ellipse
-         style="display:inline;fill:#deda4d;fill-opacity:1;paint-order:fill markers stroke"
+         style="display:inline;fill:#68de97;fill-opacity:1;paint-order:fill markers stroke"
          id="path55596-8"
          cx="9.9878826"
          cy="1107.5022"
-         rx="10.030866"
+         rx="10.032"
          ry="10.032078" />
     </g>
     <g
        id="hover-center"
+       style="display:inline"
        inkscape:label="#hover-center">
       <g
-         id="active-center-3"
-         style="display:inline"
-         inkscape:label="#active-center"
-         transform="translate(30.05204,0.17682246)">
+         id="g56297"
+         inkscape:label="#hover-center"
+         transform="translate(0.03125,0.0625)">
+        <desc
+           id="desc56302">Teste</desc>
         <circle
-           style="display:inline;fill:#deda4d;fill-opacity:1;paint-order:fill markers stroke"
-           id="path55596-8-6"
-           cx="9.9878826"
-           cy="1107.5022"
+           style="display:inline;fill:#68de97;fill-opacity:1;paint-order:fill markers stroke"
+           id="path55596-7"
+           cx="39.863144"
+           cy="1107.6791"
            r="10.032078" />
+        <circle
+           style="opacity:0.77;fill:#090d21;fill-opacity:1;stroke-width:0.999999;paint-order:fill markers stroke"
+           id="path55999"
+           cx="39.992245"
+           cy="1107.5918"
+           r="4.0217137" />
       </g>
-      <rect
-         style="opacity:0.77;fill:#090d21;fill-opacity:1;stroke-width:0.816497;paint-order:fill markers stroke"
-         id="rect2220"
-         width="10"
-         height="2"
-         x="34.944199"
-         y="1103.2041"
-         rx="0.60444331"
-         ry="0.72966701" />
     </g>
     <g
        id="pressed-center"
-       inkscape:label="#pressed-center"
        style="display:inline"
-       transform="translate(29.786875)">
+       inkscape:label="#pressed-center"
+       transform="translate(29.855606,0.03642279)">
       <g
-         id="active-center-3-5"
-         style="display:inline"
-         inkscape:label="#active-center"
-         transform="translate(30.05204,0.17682246)">
+         id="g56297-2"
+         inkscape:label="#hover-center"
+         transform="translate(0.03125,0.0625)">
+        <desc
+           id="desc56302-2">Teste</desc>
         <circle
-           style="display:inline;fill:#deda4d;fill-opacity:1;paint-order:fill markers stroke"
-           id="path55596-8-6-3"
-           cx="9.9878826"
-           cy="1107.5022"
+           style="display:inline;fill:#68de97;fill-opacity:1;paint-order:fill markers stroke"
+           id="path55596-7-8"
+           cx="39.863144"
+           cy="1107.6791"
            r="10.032078" />
+        <circle
+           style="opacity:0.77;fill:#090d21;fill-opacity:1;stroke-width:0.999999;paint-order:fill markers stroke"
+           id="path55999-9"
+           cx="39.992245"
+           cy="1107.5918"
+           r="4.0217137" />
       </g>
-      <rect
-         style="opacity:0.77;fill:#090d21;fill-opacity:1;stroke-width:0.816497;paint-order:fill markers stroke"
-         id="rect2220-5"
-         width="10"
-         height="2"
-         x="34.91156"
-         y="1103.2041"
-         rx="0.60444337"
-         ry="0.72966695" />
     </g>
   </g>
 </svg>
